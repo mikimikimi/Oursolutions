@@ -38,7 +38,7 @@
 /* 引言 */
 .preface{
     background-color: rgb(116, 123, 136);
-    height: 800px;
+    height: 850px;
     color: white;
     font-weight: 500;
     font-size: 26px;
@@ -60,14 +60,14 @@
 } 
 .preface03{
     position: absolute;
-    left: 300px;
+    left: 250px;
     top: 190px;
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4,0 0 30px #F4F4F4;
 } 
 .preface04{
     position: absolute;
-    left: 300px;
-    top: 450px;
+    left: 250px;
+    top: 250px;
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4,0 0 30px #F4F4F4;
 } 
 
@@ -96,7 +96,7 @@
 .productPhoto{
     background: url(../img/tarot-introduction.JPG) center center no-repeat;
     background-size: contain;
-    height: 300px;
+    height: 500px;
     margin-top: 80px;
 }
 .productText{
