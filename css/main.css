@@ -36,6 +36,11 @@
 }
 
 /* 引言 */
+.container{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
 .preface{
     background-color: rgb(116, 123, 136);
     height: 1200px;
@@ -49,29 +54,21 @@
 .preface01{
     position: absolute;
     top: 70px;
-    left: 50%;
-    transform: translate(-50%,-50%);
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4;
 } 
 .preface02{
     position: absolute;
     top: 130px;
-    left: 50%;
-    transform: translate(-50%,-50%);
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4;
 } 
 .preface03{
     position: absolute;
     top: 190px;
-    left: 50%;
-    transform: translate(-50%,-50%);
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4,0 0 30px #F4F4F4;
 } 
 .preface04{
     position: absolute;
     top: 260px;
-    left: 50%;
-    transform: translate(-50%,-50%);
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4,0 0 30px #F4F4F4;
 } 
 
