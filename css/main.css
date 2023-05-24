@@ -117,6 +117,9 @@
     letter-spacing: 1px;
     text-align: center;
 }
+.logoText h1{
+    font-size: 28px;
+}
 .logoText p{
     margin-bottom: 0px;
 }
