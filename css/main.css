@@ -36,11 +36,6 @@
 }
 
 /* 引言 */
-.container{
-    display: flex;
-    justify-content: center; 
-    align-items: center; 
-}
 .preface{
     background-color: rgb(116, 123, 136);
     height: 1200px;
