@@ -67,7 +67,7 @@
 .preface04{
     position: absolute;
     left: 250px;
-    top: 300px;
+    top: 500px;
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4,0 0 30px #F4F4F4;
 } 
 
@@ -94,7 +94,7 @@
     height: 550px;
 }
 .productPhoto{
-    background: url(../img/tarot-introduction.png) center center no-repeat;
+    background: url(../img/tarot-introduction.JPG) center center no-repeat;
     background-size: contain;
     height: 300px;
     margin-top: 80px;
@@ -126,7 +126,7 @@
 }
 
 .logoPhoto{
-    background: url(../img/team-introduction.png) center center no-repeat;
+    background: url(../img/logo-introduction.png) center center no-repeat;
     background-size: contain;
     height: 350px;
     margin-top: 80px;
