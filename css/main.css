@@ -38,7 +38,7 @@
 /* 引言 */
 .preface{
     background-color: rgb(116, 123, 136);
-    height: 600px;
+    height: 800px;
     color: white;
     font-weight: 500;
     font-size: 26px;
@@ -60,13 +60,13 @@
 } 
 .preface03{
     position: absolute;
-    left: 250px;
+    left: 300px;
     top: 190px;
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4,0 0 30px #F4F4F4;
 } 
 .preface04{
     position: absolute;
-    left: 250px;
+    left: 300px;
     top: 450px;
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4,0 0 30px #F4F4F4;
 } 
@@ -126,7 +126,7 @@
 }
 
 .logoPhoto{
-    background: url(../img/logo-introduction.png) center center no-repeat;
+    background: url(../img/logo-introduction.PNG) center center no-repeat;
     background-size: contain;
     height: 350px;
     margin-top: 80px;
@@ -137,7 +137,7 @@
     height: 550px;
 }
 .packagePhoto{
-    background: url(../img/team-introduction.png) center center no-repeat;
+    background: url(../img/package-introduction.JPG) center center no-repeat;
     background-size: contain;
     height: 350px;
     margin-top: 80px;
@@ -166,7 +166,7 @@
     margin-top: 80px;
 }
 
-.candleText {
+.candleText{
     color: rgb(36, 46, 33);
     font-size: 26px;
     white-space: pre;
