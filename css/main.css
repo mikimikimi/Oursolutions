@@ -45,6 +45,9 @@
     font-family: DFKai-sb;
     letter-spacing: 3px;
     position: relative;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
 }
 .preface01{
     position: absolute;
