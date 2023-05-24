@@ -106,7 +106,7 @@
 
 .logoIntroduction{
     background-color: rgb(116, 123, 136);
-    height: 550px;
+    height: 300px;
 }
 
 .logoText {
@@ -133,7 +133,7 @@
 
 .packageIntroduction{
     background-color: rgb(116, 123, 136);
-    height: 550px;
+    height: 300px;
 }
 .packagePhoto{
     background: url(../img/package-introduction.JPG) center center no-repeat;
@@ -159,7 +159,7 @@
     height: 550px;
 }
 .candlePhoto{
-    background: url(../img/team-introduction.png) center center no-repeat;
+    background: url(../img/candle-introduction.JPG) center center no-repeat;
     background-size: contain;
     height: 350px;
     margin-top: 80px;
