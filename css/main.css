@@ -48,25 +48,21 @@
 }
 .preface01{
     position: absolute;
-    left: 250px;
     top: 70px;
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4;
 } 
 .preface02{
     position: absolute;
-    left: 250px;
     top: 130px;
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4;
 } 
 .preface03{
     position: absolute;
-    left: 250px;
     top: 190px;
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4,0 0 30px #F4F4F4;
 } 
 .preface04{
     position: absolute;
-    left: 250px;
     top: 250px;
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4,0 0 30px #F4F4F4;
 } 
