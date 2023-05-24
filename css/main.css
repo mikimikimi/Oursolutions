@@ -38,7 +38,7 @@
 /* 引言 */
 .preface{
     background-color: rgb(116, 123, 136);
-    height: 550px;
+    height: 600px;
     color: white;
     font-weight: 500;
     font-size: 26px;
@@ -67,7 +67,7 @@
 .preface04{
     position: absolute;
     left: 250px;
-    top: 500px;
+    top: 450px;
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4,0 0 30px #F4F4F4;
 } 
 
