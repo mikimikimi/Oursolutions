@@ -147,6 +147,7 @@
 }
 .packageText p{
     font-size: 18px;
+    word-wrap:break-word
     /*margin-bottom: 0px;*/
 }
 
