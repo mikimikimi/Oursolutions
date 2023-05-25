@@ -24,7 +24,7 @@
 /* banner */
 .banner{
     background-color: rgb(116, 123, 136);
-    height: 500px;
+    height: 350px;
 }
 
 .owl-theme .owl-nav.disabled+.owl-dots {
@@ -55,7 +55,7 @@
 .prefacetext{
     position: absolute;
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4;
-    margin: 300,auto
+    margin: 300 auto
 }
 /*.preface01{
     position: absolute;
@@ -928,7 +928,7 @@
         height: 20px;
     }
     .banner {
-        height: 97px;
+        height: 100px;
     }
     
     .owl-theme .owl-dots .owl-dot span {
@@ -1028,7 +1028,7 @@
         height: 15px;
     }
     .banner {
-        height: 82px;
+        height: 100px;
     }
     .owl-theme .owl-dots .owl-dot span {
         width: 8px;
@@ -1132,7 +1132,7 @@
         height: 15px;
     }
     .banner {
-        height: 82px;
+        height: 100px;
     }
     .owl-theme .owl-dots .owl-dot span {
         width: 5px;
