@@ -49,11 +49,13 @@
     letter-spacing: 3px;
     position: relative;
     display: flex;
+    justify-content: center; 
+    align-items: center; 
 }
 .prefacetext{
     position: absolute;
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4;
-    margin: auto
+    margin: 300,auto
 }
 /*.preface01{
     position: absolute;
