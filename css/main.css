@@ -114,17 +114,17 @@
 
 .logoText {
     color: rgb(36, 46, 33);
-    font-size: 26px;
     white-space: pre;
     font-family: Microsoft JhengHei;
     letter-spacing: 1px;
     text-align: center;
 }
 .logoText h1{
-    font-size: 28px;
+    font-size: 20px;
 }
 .logoText p{
-    margin-bottom: 0px;
+   /* margin-bottom: 0px;*/
+    font-size: 18px;
 }
 
 .logoPhoto{
