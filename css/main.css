@@ -9,9 +9,6 @@
     width: 100%;
     top: 0px;
 }
-.body{
-    text-indent: 10px;
-}
 
 .bg-blue{
     background-color: #2F3B49;
@@ -56,7 +53,7 @@
     position: absolute;
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4;
     margin: auto;
-    padding-top: 100px;
+    padding: 100px auto -10px ;
 }
 
 /* .rule{
