@@ -102,9 +102,6 @@
 } */
 
 /* 介紹 */
-.h1{
-    font-size: 20px;
-}
 
 .productIntroduction{
     background-color: rgb(116, 123, 136);
@@ -137,6 +134,9 @@
     letter-spacing: 1px;
     text-align: center;
 }
+.logoText h1{
+    font-size: 20px;
+}
 .logoText p{
    /* margin-bottom: 0px;*/
     font-size: 18px;
@@ -162,14 +162,17 @@
 
 .packageText {
     color: rgb(44, 32, 49);
-    font-size: 26px;
     white-space: pre;
     font-family: Microsoft JhengHei;
     letter-spacing: 1px;
     text-align: center;
 }
+.packageText h1{
+    font-size: 20px;
+}
 .packageText p{
-    margin-bottom: 0px;
+    font-size: 18px;
+    /*margin-bottom: 0px;*/
 }
 
 .candleIntroduction{
@@ -185,14 +188,18 @@
 
 .candleText{
     color: rgb(36, 46, 33);
-    font-size: 26px;
     white-space: pre;
     font-family: Microsoft JhengHei;
     letter-spacing: 1px;
     text-align: center;
 }
+.candleText h1{
+    margin-bottom: 0px;
+    font-size: 20px;
+}
 .candleText p{
     margin-bottom: 0px;
+    font-size: 18px;
 }
 
 
