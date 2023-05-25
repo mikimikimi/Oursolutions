@@ -134,7 +134,7 @@
     letter-spacing: 1px;
     text-align: center;
 }
-.logoText h1{
+.logoText h2{
     font-size: 20px;
 }
 .logoText p{
@@ -167,7 +167,7 @@
     letter-spacing: 1px;
     text-align: center;
 }
-.packageText h1{
+.packageText h2{
     font-size: 20px;
 }
 .packageText p{
@@ -193,7 +193,7 @@
     letter-spacing: 1px;
     text-align: center;
 }
-.candleText h1{
+.candleText h2{
     margin-bottom: 0px;
     font-size: 20px;
 }
