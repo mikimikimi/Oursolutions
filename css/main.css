@@ -9,6 +9,9 @@
     width: 100%;
     top: 0px;
 }
+.body{
+    text-indent: 5px
+}
 
 .bg-blue{
     background-color: #2F3B49;
@@ -45,28 +48,25 @@
     font-family: DFKai-sb;
     letter-spacing: 3px;
     position: relative;
-    display: flex;
-    justify-content: center; 
-    align-items: center; 
 }
 .preface01{
     position: absolute;
-    top: 70px;
+    /*top: 70px;*/
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4;
 } 
 .preface02{
     position: absolute;
-    top: 130px;
+    /*top: 130px;*/
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4;
 } 
 .preface03{
     position: absolute;
-    top: 190px;
+    /*top: 190px;*/
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4,0 0 30px #F4F4F4;
 } 
 .preface04{
     position: absolute;
-    top: 260px;
+    /*top: 260px;*/
     text-shadow: 0 0 10px #F4F4F4,0 0 20px #F4F4F4,0 0 30px #F4F4F4;
 } 
 
@@ -88,6 +88,10 @@
 } */
 
 /* 介紹 */
+.h1{
+    font-size: 20px;
+}
+
 .productIntroduction{
     background-color: rgb(116, 123, 136);
     height: 550px;
@@ -118,9 +122,6 @@
     font-family: Microsoft JhengHei;
     letter-spacing: 1px;
     text-align: center;
-}
-.logoText h1{
-    font-size: 20px;
 }
 .logoText p{
    /* margin-bottom: 0px;*/
